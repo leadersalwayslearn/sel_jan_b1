@@ -1,4 +1,4 @@
-package firstDemo;
+package day1;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
